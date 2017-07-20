@@ -10,7 +10,6 @@ package accessModifier;
 			System.out.println("I can fly");
 		}
 		
-		
 	public static void main(String[] args) {
 		
 		//********same package subclass implementation************
